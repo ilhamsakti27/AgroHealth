@@ -1,0 +1,9 @@
+[submodule "AgroHealth-ml"]
+	path = AgroHealth-ml
+	url = https://github.com/nekoniiiii/AgroHealth-ML
+[submodule "AgroHealth-app"]
+	path = AgroHealth-app
+	url = https://github.com/renufuss/AgroHealth
+[submodule "AgroHealth-backend"]
+	path = AgroHealth-backend
+	url = https://github.com/rosfandy/backend-bangkit-2023-fp
