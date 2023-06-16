@@ -1,5 +1,5 @@
 [submodule "AgroHealth-ml"]
-	path = AgroHealth-ml
+	path = AgroHealth-ml 
 	url = https://github.com/nekoniiiii/AgroHealth-ML
 [submodule "AgroHealth-app"]
 	path = AgroHealth-app
