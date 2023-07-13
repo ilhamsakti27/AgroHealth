@@ -4,6 +4,6 @@
 [submodule "AgroHealth-app"]
 	path = AgroHealth-app
 	url = https://github.com/renufuss/AgroHealth
-[submodule "backend-bangkit-2023-fp"]
-	path = backend-bangkit-2023-fp
+[submodule "AgroHealth-cc"]
+	path = AgroHealth-cc
 	url = https://github.com/rosfandy/backend-bangkit-2023-fp.git
